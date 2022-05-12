@@ -31,5 +31,13 @@ func main() {
 }
 ```
 
+## Similar projects
+
+[godotenv](https://github.com/joho/godotenv)
+
+[python-dotenv](https://pypi.org/project/python-dotenv/)
+
+[dotenv](https://www.npmjs.com/package/dotenv)
+
 ## License
 [MIT](https://github.com/davipatricio/go-envloader/blob/master/LICENSE)
