@@ -1,3 +1,3 @@
-module github.com/davipatricio/go-envloader
+module github.com/denkylabs/go-envloader
 
 go 1.18
