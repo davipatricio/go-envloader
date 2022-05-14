@@ -4,7 +4,7 @@ This project is a simple [Go](https://golang.org) package that will load environ
 
 ## Installation
 
-**As a library**: `go get github.com/davipatricio/go-envloader`
+**As a library**: `go get github.com/denkylabs/go-envloader`
 
 ## Example
 
@@ -13,7 +13,7 @@ package main
 
 import (
     "fmt"
-    "github.com/davipatricio/go-envloader"
+    "github.com/denkylabs/go-envloader"
 )
 
 func main() {
