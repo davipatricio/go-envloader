@@ -31,13 +31,13 @@ func main() {
 }
 ```
 
-## Similar projects
+## Related
 
-[godotenv](https://github.com/joho/godotenv)
+[godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
 
-[python-dotenv](https://pypi.org/project/python-dotenv/)
+[python-dotenv](https://pypi.org/project/python-dotenv/) - Read key-value pairs from a .env file and set them as environment variables
 
-[dotenv](https://www.npmjs.com/package/dotenv)
+[dotenv](https://www.npmjs.com/package/dotenv) - Loads environment variables from .env file
 
 ## License
 [MIT](https://github.com/davipatricio/go-envloader/blob/master/LICENSE)
