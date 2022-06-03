@@ -18,7 +18,7 @@ import (
 
 func main() {
     // Load environment variables from the `.env` file and set them to the `os.Environ` variable.
-    err := envloader.Load()
+    err := envloader.LoadEnv()
     if err != nil {
         panic(err)
     }
